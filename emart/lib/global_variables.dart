@@ -1,0 +1,93 @@
+final products = [
+  {
+    "id": "1.1",
+    "title": "Nike Mercurial Superfly 10 Elite",
+    "price": "₹24,300",
+    "company": "Nike",
+    "Size": [8, 9, 10, 11, 12, 13,14],
+    "ImageURL": "resources/images/Nike Mercurial Superfly 10 Elite.png",
+  },
+  {
+    "id": "1.2",
+    "title": "Nike Phantom Luna2 Elite",
+    "price": "₹26,995",
+    "company": "Nike",
+    "Size": [8, 9, 12, 14],
+    "ImageURL": "resources/images/Nike Phantom Luna 2 Elite.png",
+  },
+  {
+    "id": "1.3",
+    "title": "Nike Phantom GX 2 Elite",
+    "price": "₹18,855",
+    "company": "Nike",
+    "Size": [10, 11, 12, 13],
+    "ImageURL": "resources/images/Nike Phantom GX 2 Elite.png",
+  },
+  {
+    "id": "2.1",
+    "title": "Adidas F50 Elite Laceless FG",
+    "price": "₹24,855",
+    "company": "Adidas",
+    "Size": [10, 11, 12, 14],
+    "ImageURL": "resources/images/Adidas F50 Elite Laceless FG.png",
+  },
+  {
+    "id": "2.2",
+    "title": "Adidas Predator Freak+ FG",
+    "price": "₹20,000",
+    "company": "Adidas",
+    "Size": [8, 9, 12, 14],
+    "ImageURL": "resources/images/Adidas Predator Freak FG.png",
+  },
+  {
+    "id": "2.3",
+    "title": "Adidas Copa Pure FG",
+    "price": "₹12,000",
+    "company": "Adidas",
+    "Size": [8, 9, 10, 11, 12, 13],
+    "ImageURL": "resources/images/Adidas Copa Pure FG.png",
+  },
+  {
+    "id": "3.1",
+    "title": "Puma Vitoria FG/AG",
+    "price": "₹2,249",
+    "company": "Puma",
+    "Size": [8, 9, 10, 13, 14],
+    "ImageURL": "resources/images/Puma Vitoria FGAG.png",
+  },
+  {
+    "id": "3.2",
+    "title": "Puma Ultra Ultimate FG",
+    "price": "₹18,000",
+    "company": "Puma",
+    "Size": [9, 10, 12, 13],
+    "ImageURL": "resources/images/Puma Ultra Ultimate FG.png",
+  },
+  {
+    "id": "4.1",
+    "title": "Kipsta Viralto I MG/AG",
+    "price": "₹3,299",
+    "company": "Kipsta",
+    "Size": [8, 11, 12, 13],
+    "ImageURL": "resources/images/Kipsta Viralto I MGAG.png",
+  },
+  {
+    "id": "4.2",
+    "title": "Kipsta CLR by Decathlon",
+    "price": "₹5,500",
+    "company": "Kipsta",
+    "Size": [8, 9, 10, 11, 13, 14],
+    "ImageURL": "resources/images/Kipsta CLR by Decathlon.png",
+  },
+];
+
+final cart = [
+  {
+    "id": "1.1",
+    "title": "Nike Mercurial Superfly 10 Elite",
+    "price": "₹24,300",
+    "company": "Nike",
+    "Size": 8,
+    "ImageURL": "resources/images/Nike Mercurial Superfly 10 Elite.png",
+  }
+];
