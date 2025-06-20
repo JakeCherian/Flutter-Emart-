@@ -6,20 +6,13 @@ A clean, functional, and modern **E-Commerce Mobile Application** built with **F
 
 ## 📱 Preview
 
-### 🏠 Home Page (Hero Section & Product Listings)
-![Homepage](./pg1.png)
+| Home Page | Product Details |
+|:--------:|:--------------:|
+| <img src="./pg1.png" width="200"/> | <img src="./pg2.png" width="200"/> |
 
-### 📄 Product Details Page
-![Product Details](./pg2.png)
-
-### 🛒 Shopping Cart Page
-![Cart Page](./pg3.png)
-
----
-
-## 🎬 Live Demo:
-
-![E-Mart Demo](./emart%20recording.gif)
+| Cart Page | Live Demo |
+|:--------:|:--------:|
+| <img src="./pg3.png" width="200"/> | <img src="./emart recording.gif" width="200"/> |
 
 ---
 
