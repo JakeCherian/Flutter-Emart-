@@ -8,11 +8,11 @@ A clean, functional, and modern **E-Commerce Mobile Application** built with **F
 
 | Home Page | Product Details |
 |:--------:|:--------------:|
-| <img src="./pg1.png" width="200"/> | <img src="./pg2.png" width="200"/> |
+| <img src="./pg1.png" width="300"/> | <img src="./pg2.png" width="300"/> |
 
 | Cart Page | Live Demo |
 |:--------:|:--------:|
-| <img src="./pg3.png" width="200"/> | <img src="./emart recording.gif" width="200"/> |
+| <img src="./pg3.png" width="300"/> | <img src="./emart recording.gif" width="300"/> |
 
 ---
 
